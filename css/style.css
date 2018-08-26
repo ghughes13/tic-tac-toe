@@ -46,6 +46,12 @@ h1 {
     background: #54D17A; }
     .screen-start h1 {
       font-size: 6em; }
+    .screen-start input {
+      display: block;
+      text-align: center;
+      margin: auto;
+      margin-top: 3%;
+      margin-bottom: 3%;}
     .screen-start .button {
       color: #54D17A; }
     .screen-start h1 + .button {
@@ -65,7 +71,7 @@ h1 {
       line-height: 0;
       z-index: -1; }
   .screen-win-tie {
-    background: #54D17A; }   
+    background: #54D17A; }
   .screen-win-one {
     background: #FFA000; }
     .screen-win-one .button {
@@ -125,7 +131,7 @@ h1 {
     padding: 1.75em;
     cursor: pointer;
     box-sizing: border-box;
-    transition: 0.2s ease; 
+    transition: 0.2s ease;
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: center center;}
@@ -138,4 +144,7 @@ h1 {
       background-color: #3688C3;
       background-image: url(../img/x.svg); }
 
-
+  .namespot {
+    color: black;
+    margin: 0;
+  }
