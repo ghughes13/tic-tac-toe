@@ -1,9 +1,0 @@
-8. Create computer player
-9. Ask for players names in beginning
-10. Display players names throughout game
-
-
-When the current player mouses over an empty square on the board,
-it's symbol the X or O should appear on the square. You can do this
-using the x.svg or o.svg graphics (hint use JavaScript to set the
-background-image property for that box.)
